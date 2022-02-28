@@ -1,0 +1,6 @@
+#Opening file to store genrated events (2022-01-23 22:20:02)
+: 0, D2, 0
+: 217007305, D2, 1
+: 251471304, D2, 0
+: 360044094, D2, 1
+#Closing file with generated events (475594667)

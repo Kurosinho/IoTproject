@@ -1,0 +1,8 @@
+IF qHumidity > 60
+THEN LED ON
+IF qHumidity < 45
+THEN LED OFF
+IF qTemperature > 25
+THEN AC ON
+IF qTemperature < 18
+THEN AC OFF

@@ -1,0 +1,23 @@
+#Opis zasobow
+#
+#
++ qHumidity,quantity,Z3    # input 0=-10 100=+20
++ qTemperature, quantity, Z2
+
+: 0, qHumidity, 50
+: 15000000, qHumidity, 55
+: 30000000, qHumidity, 60
+: 45000000, qHumidity, 65
+: 60000000, qHumidity, 70
+: 75000000, qHumidity, 69
+: 90000000, qHumidity, 68
+: 115000000, qHumidity, 65
+: 130000000, qHumidity, 60
+: 145000000, qHumidity, 55
+: 160000000, qHumidity, 50
+: 175000000, qHumidity, 45
+: 190000000, qHumidity, 46
+: 205000000, qHumidity, 47
+: 220000000, qHumidity, 50
+
+

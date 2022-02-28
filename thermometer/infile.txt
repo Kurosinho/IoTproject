@@ -1,0 +1,19 @@
+#Opis zasobow
+#
++ qTemperature, quantity, Z2
+
+: 1, qTemperature, 20
+: 15000001, qTemperature, 23
+: 30000001, qTemperature, 24
+: 45000001, qTemperature, 26
+: 60000001, qTemperature, 23
+: 75000001, qTemperature, 20
+: 90000001, qTemperature, 17
+: 115000001, qTemperature, 19
+: 130000001, qTemperature, 21
+: 150000000, qTemperature, 22
+: 170000000, qTemperature, 23
+: 230000000, qTemperature, 25
+
+
+

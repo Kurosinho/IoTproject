@@ -1,0 +1,12 @@
+#Opis zasobow
+#
+#
++ sON,status,D2    # input 0=-10 100=+20
+
+:0, sON, 0
+
+
+
+
+
+
